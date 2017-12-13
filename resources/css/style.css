@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.background{
+  background-image: url(../../resources/images/background.png);
+
+}
+h1{
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+.footer{
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+#copyright{
+  font-size: 11px;
+}
+.bottext{
+  color: white;
+}
+.white{
+  color: white;
+}
